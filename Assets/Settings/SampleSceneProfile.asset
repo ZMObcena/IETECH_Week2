@@ -21,7 +21,7 @@ MonoBehaviour:
     m_Value: 1
   intensity:
     m_OverrideState: 1
-    m_Value: 1
+    m_Value: 1.19
   scatter:
     m_OverrideState: 0
     m_Value: 0.7
@@ -68,7 +68,7 @@ MonoBehaviour:
     m_Value: {x: 0.5, y: 0.5}
   intensity:
     m_OverrideState: 1
-    m_Value: 0.265
+    m_Value: 0.218
   smoothness:
     m_OverrideState: 1
     m_Value: 1
@@ -89,8 +89,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   active: 1
   postExposure:
-    m_OverrideState: 0
-    m_Value: 1.31
+    m_OverrideState: 1
+    m_Value: 2.92
   contrast:
     m_OverrideState: 0
     m_Value: 0
@@ -176,7 +176,7 @@ MonoBehaviour:
   active: 1
   _weight:
     m_OverrideState: 1
-    m_Value: 0.089
+    m_Value: 0.048
   _bleed:
     m_OverrideState: 0
     m_Value: 0
